@@ -25,4 +25,3 @@
 - Score: [Your score in Hackathon 3]
 - Achievements/Insights: [Any notable achievements or insights gained from participating in Hackathon 3]
 
-...
