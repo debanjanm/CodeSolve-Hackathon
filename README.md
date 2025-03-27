@@ -1,1 +1,1 @@
-# Hackathon-Solutions
+# CodeSolve-Hackathon
